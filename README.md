@@ -24,3 +24,7 @@ az account set --subscription sub_Number <br>
 
 /user-profile/.aws/ <br>
 aws sts get-caller-identity <br>
+aws configure --profile Default <br>
+aws configure get <br>
+aws configure set <br>
+aws configure list <br>
